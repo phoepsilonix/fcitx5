@@ -9,7 +9,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: fcitx5\n"
 "Report-Msgid-Bugs-To: fcitx-dev@googlegroups.com\n"
-"POT-Creation-Date: 2026-02-01 20:24+0000\n"
+"POT-Creation-Date: 2026-02-22 20:24+0000\n"
 "PO-Revision-Date: 2017-11-23 04:14+0000\n"
 "Last-Translator: Temuri Doghonadze <temuri.doghonadze@gmail.com>, 2026\n"
 "Language-Team: Georgian (https://app.transifex.com/fcitx/teams/12005/ka/)\n"
@@ -116,7 +116,7 @@ msgstr "<მინიჭებული არაა>"
 msgid "A virtual keyboard backend based on DBus"
 msgstr ""
 
-#: src/ui/classic/theme.h:210
+#: src/ui/classic/theme.h:226
 msgid "Accent Colors"
 msgstr "აქცენტის ფერები"
 
@@ -224,7 +224,7 @@ msgctxt "Key name"
 msgid "Audio Repeat"
 msgstr "აუდიოს გამეორება"
 
-#: src/ui/classic/theme.h:199
+#: src/ui/classic/theme.h:215
 msgid "Author"
 msgstr "ავტორი"
 
@@ -251,7 +251,7 @@ msgstr "წინ უკან"
 msgid "Backends"
 msgstr "უკანაბოლოები"
 
-#: src/ui/classic/theme.h:164 src/ui/classic/theme.h:184
+#: src/ui/classic/theme.h:180 src/ui/classic/theme.h:200
 msgid "Background"
 msgstr "ფონი"
 
@@ -291,11 +291,11 @@ msgctxt "Key name"
 msgid "Bluetooth"
 msgstr "ბლუთუზი"
 
-#: src/ui/classic/theme.h:154
+#: src/ui/classic/theme.h:170
 msgid "Blur Margin"
 msgstr ""
 
-#: src/ui/classic/theme.h:153
+#: src/ui/classic/theme.h:169
 msgid "Blur mask"
 msgstr ""
 
@@ -352,6 +352,22 @@ msgstr "კალკულატორი"
 msgctxt "Key name"
 msgid "Cancel"
 msgstr "გაუქმება"
+
+#: src/ui/classic/theme.h:163
+msgid "Candidate Comment Text Color"
+msgstr ""
+
+#: src/ui/classic/theme.h:160
+msgid "Candidate Comment Text Size Factor"
+msgstr ""
+
+#: src/ui/classic/theme.h:155
+msgid "Candidate Label Text Color"
+msgstr ""
+
+#: src/ui/classic/theme.h:152
+msgid "Candidate Label Text Size Factor"
+msgstr ""
 
 #: src/im/keyboard/longpress.h:23
 msgid "Candidates"
@@ -448,7 +464,7 @@ msgstr "მარჯვენა ცენტრი"
 msgid "Change Fcitx 5 Configuration"
 msgstr ""
 
-#: src/ui/classic/theme.h:189
+#: src/ui/classic/theme.h:205
 msgid "Check box"
 msgstr "ჩასართავი"
 
@@ -614,7 +630,7 @@ msgctxt "Key name"
 msgid "Delete"
 msgstr "წაშლა"
 
-#: src/ui/classic/theme.h:201
+#: src/ui/classic/theme.h:217
 msgid "Description"
 msgstr "აღწერა"
 
@@ -711,7 +727,7 @@ msgstr "ემოჯი"
 msgid "Enable"
 msgstr "ჩართვა"
 
-#: src/ui/classic/theme.h:151
+#: src/ui/classic/theme.h:167
 msgid "Enable Blur on KWin"
 msgstr ""
 
@@ -1160,7 +1176,7 @@ msgstr ""
 msgid "Hide overlay if size does not fit"
 msgstr ""
 
-#: src/ui/classic/theme.h:166 src/ui/classic/theme.h:186
+#: src/ui/classic/theme.h:182 src/ui/classic/theme.h:202
 msgid "Highlight Background"
 msgstr ""
 
@@ -1168,8 +1184,16 @@ msgstr ""
 msgid "Highlight Background color"
 msgstr ""
 
+#: src/ui/classic/theme.h:166
+msgid "Highlight Candidate Comment Text Color"
+msgstr ""
+
+#: src/ui/classic/theme.h:158
+msgid "Highlight Candidate Label Text Color"
+msgstr ""
+
 #: src/ui/classic/theme.h:149
-msgid "Highlight Candidate Color"
+msgid "Highlight Candidate Text Color"
 msgstr ""
 
 #: src/ui/classic/theme.h:132
@@ -1300,7 +1324,7 @@ msgstr "შეყვანის მეთოდის მორგება"
 msgid "Input Methods:"
 msgstr ""
 
-#: src/ui/classic/theme.h:207
+#: src/ui/classic/theme.h:223
 msgid "Input Panel"
 msgstr ""
 
@@ -1781,11 +1805,11 @@ msgstr "საზღვარი მარჯვნივ"
 msgid "Margin Top"
 msgstr "ზედა საზღვარი"
 
-#: src/ui/classic/theme.h:168 src/ui/classic/theme.h:192
+#: src/ui/classic/theme.h:184 src/ui/classic/theme.h:208
 msgid "Margin around all content"
 msgstr ""
 
-#: src/ui/classic/theme.h:170 src/ui/classic/theme.h:194
+#: src/ui/classic/theme.h:186 src/ui/classic/theme.h:210
 msgid "Margin around text"
 msgstr ""
 
@@ -1844,7 +1868,7 @@ msgctxt "Key name"
 msgid "Meeting"
 msgstr "შეხვედრა"
 
-#: src/ui/classic/theme.h:208
+#: src/ui/classic/theme.h:224
 msgid "Menu"
 msgstr "მენიუ"
 
@@ -1887,7 +1911,7 @@ msgctxt "Key name"
 msgid "Messenger"
 msgstr "მესინჯერი"
 
-#: src/ui/classic/theme.h:205
+#: src/ui/classic/theme.h:221
 msgid "Metadata"
 msgstr "მეტამონაცემები"
 
@@ -1926,7 +1950,7 @@ msgctxt "Key name"
 msgid "My Sites"
 msgstr "ჩემი საიტები"
 
-#: src/ui/classic/theme.h:197
+#: src/ui/classic/theme.h:213
 msgid "Name"
 msgstr "სახელი"
 
@@ -1944,7 +1968,7 @@ msgstr "ახალი ამბები"
 msgid "Next Candidate"
 msgstr ""
 
-#: src/ui/classic/theme.h:172
+#: src/ui/classic/theme.h:188
 msgid "Next Page Button"
 msgstr "შემდეგი გვერდის ღილაკი"
 
@@ -1960,7 +1984,7 @@ msgstr ""
 msgid "None"
 msgstr "არცერთი"
 
-#: src/ui/classic/theme.h:141 src/ui/classic/theme.h:177
+#: src/ui/classic/theme.h:141 src/ui/classic/theme.h:193
 msgid "Normal text color"
 msgstr ""
 
@@ -2055,7 +2079,7 @@ msgctxt "Key name"
 msgid "Page Up"
 msgstr "ღილაკი Page Up"
 
-#: src/ui/classic/theme.h:161
+#: src/ui/classic/theme.h:177
 msgid "Page button vertical alignment"
 msgstr ""
 
@@ -2137,7 +2161,7 @@ msgstr ""
 msgid "Prev Candidate"
 msgstr ""
 
-#: src/ui/classic/theme.h:171
+#: src/ui/classic/theme.h:187
 msgid "Prev Page Button"
 msgstr ""
 
@@ -2301,7 +2325,7 @@ msgstr ""
 msgid "Select specific input method via keyboard"
 msgstr ""
 
-#: src/ui/classic/theme.h:180
+#: src/ui/classic/theme.h:196
 msgid "Selected Item text color"
 msgstr ""
 
@@ -2317,7 +2341,7 @@ msgid ""
 "layout conversion by adding layout as input method to the input method group."
 msgstr ""
 
-#: src/ui/classic/theme.h:188
+#: src/ui/classic/theme.h:204
 msgid "Separator Background"
 msgstr ""
 
@@ -2325,7 +2349,7 @@ msgstr ""
 msgid "Set client disconnect mode to terminate (Need Restart)"
 msgstr ""
 
-#: src/ui/classic/theme.h:174
+#: src/ui/classic/theme.h:190
 msgid "Shadow Margin"
 msgstr ""
 
@@ -2397,7 +2421,7 @@ msgctxt "Key name"
 msgid "Space"
 msgstr "ჰარე"
 
-#: src/ui/classic/theme.h:182
+#: src/ui/classic/theme.h:198
 msgid "Spacing"
 msgstr "გამოტოვება"
 
@@ -2439,7 +2463,7 @@ msgctxt "Key name"
 msgid "Stop"
 msgstr "გაჩერება"
 
-#: src/ui/classic/theme.h:190
+#: src/ui/classic/theme.h:206
 msgid "Sub Menu"
 msgstr ""
 
@@ -2730,7 +2754,7 @@ msgstr ""
 msgid "Use Per Screen DPI on X11"
 msgstr ""
 
-#: src/ui/classic/theme.h:157
+#: src/ui/classic/theme.h:173
 msgid "Use all horizontal space for highlight when it is vertical list"
 msgstr ""
 
@@ -2760,7 +2784,7 @@ msgid ""
 "environment:"
 msgstr ""
 
-#: src/ui/classic/theme.h:198
+#: src/ui/classic/theme.h:214
 msgid "Version"
 msgstr "ვერსია"
 
