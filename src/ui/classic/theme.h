@@ -158,7 +158,7 @@ FCITX_CONFIGURATION(
         _("Highlight Candidate Label Text Color")};
     Option<int, IntConstrain> commentTextSizeFactor{
         this, "CommentTextSizeFactor", _("Candidate Comment Text Size Factor"),
-        60, IntConstrain(0, 400)};
+        75, IntConstrain(0, 400)};
     Option<std::optional<Color>> candidateCommentColor{
         this, "CandidateCommentColor", _("Candidate Comment Text Color")};
     Option<std::optional<Color>> highlightCandidateCommentColor{

@@ -993,7 +993,7 @@ void Theme::populateColor(std::optional<Color> accent) {
     } else {
         inputPanelCandidateCommentText_ = inputPanelText_;
         inputPanelCandidateCommentText_.setAlphaF(
-            inputPanelCandidateCommentText_.alphaF() * 0.5);
+            inputPanelCandidateCommentText_.alphaF() * 0.6);
     }
     if (inputPanelHighlightCandidateCommentText) {
         inputPanelHighlightCandidateCommentText_ =
@@ -1002,7 +1002,7 @@ void Theme::populateColor(std::optional<Color> accent) {
         inputPanelHighlightCandidateCommentText_ =
             inputPanelHighlightCandidateText_;
         inputPanelHighlightCandidateCommentText_.setAlphaF(
-            inputPanelHighlightCandidateCommentText_.alphaF() * 0.5);
+            inputPanelHighlightCandidateCommentText_.alphaF() * 0.6);
     }
 }
 
